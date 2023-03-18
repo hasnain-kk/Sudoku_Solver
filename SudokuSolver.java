@@ -1,12 +1,11 @@
 /*  
-@Author: HasnainKK, Muskan Rizvi, Usman Mugal, Abdus Samad and Adnan
+@Author: Hasnain KK
 @Date: 18/March/2023
 @Time: 11:52 AM
-@Project: Sudoku Solver for DSA
+@Project: Sudoku Solver
+@Subject: DSA
 @Teacher: Miss. Shamshad Naveed 
 */
-
-// 
 
 /**
 
