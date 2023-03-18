@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Sudoku Solver</title>
+	
 </head>
 <body>
 	<h1><span style="font-size:2em;">🧩</span> Sudoku Solver <span style="font-size:2em;">🧩</span></h1>
